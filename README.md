@@ -1,7 +1,7 @@
 # 🌿 Git
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](./TODO.md)
 > 🛠️ Коллекция Git-инструментов, хуков, рабочих процессов и утилит автоматизации.  
 > От кастомных команд и pre-commit проверок до release-скриптов и шаблонов конфигураций.
 
